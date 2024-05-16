@@ -1,6 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning C++, Typescript & Kotlin
-- 🖥️ My main contributions are : [epsilon](https://github.com/Numworks/epsilon) & [Linux Spotligt](https://github.com/Arthur-GYT/Linux-Spotlight), a personal project.
+- 🖥️ My main contributions are : [epsilon](https://github.com/Numworks/epsilon), [Organic Maps](https;://github.com/organicmaps/organicmaps)
 - 👿 I hate Windows ! Linux better !
 - ⚡ Fun fact: I'm not a cocker spaniel 😅.
